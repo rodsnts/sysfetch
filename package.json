@@ -1,5 +1,5 @@
 {
-  "name": "@rodsnts1232/sysfetch",
+  "name": "sysfetch",
   "version": "1.0.0",
   "license": "MIT",
   "bin": {
