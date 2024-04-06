@@ -15,7 +15,9 @@
     "test": "prettier --check . && xo && ava"
   },
   "files": [
-    "dist"
+    "/",
+    "dist",
+    "source"
   ],
   "dependencies": {
     "ink": "^4.1.0",
